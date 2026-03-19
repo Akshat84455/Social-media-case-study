@@ -1,25 +1,55 @@
 # The Campaign That Broke the Algorithm
 
-This project is a storytelling-based social media marketing case study that explores how brands can move from low engagement to high impact by focusing on authenticity.
+> A storytelling-based social media marketing case study
 
-## Key Insight
-We didn’t win the algorithm.
-We understood people.
+---
 
-## What This Project Covers
-- Content strategy shift from perfection to relatability
-- Audience behavior analysis
-- Engagement-driven storytelling approach
+## 🚀 Overview
+This project explores how brands often focus on perfection but fail to connect with their audience.
 
-## Results
-- 2K → 50K followers
-- Increased engagement
-- Improved brand connection
+Through a 10-scene visual storyboard, this case study demonstrates how shifting from polished content to authentic storytelling can significantly improve engagement and reach.
 
-## Files
-- Case Study PDF
-- Storyboard Scenes
-- Cover Page Design
+---
 
-## Author
-Akshat Bhatt
+## 🎯 Key Insight
+**We didn’t win the algorithm.  
+We understood people.**
+
+---
+
+## 📊 Problem
+- Low engagement despite consistent posting  
+- High-quality content but no audience connection  
+- Poor retention rates  
+
+---
+
+## 💡 Solution
+- Shift from perfection → authenticity  
+- Focus on relatable, real-life moments  
+- Create content that reflects audience reality  
+
+---
+
+## 📈 Results
+- Followers: 2K → 50K  
+- Engagement: Increased significantly  
+- Brand visibility: Strong improvement  
+
+---
+
+## 📂 Project Files
+- 📄 Case Study PDF  
+- 🖼️ Storyboard Scenes  
+- 🎨 Cover Page Design  
+
+---
+
+## 📥 View Full Case Study
+[Download PDF](./Premium_Case_Study.pdf)
+
+---
+
+## 👤 Author
+**Akshat Bhatt**  
+MBA | Marketing & Business Analytics
